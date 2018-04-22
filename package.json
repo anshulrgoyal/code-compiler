@@ -1,0 +1,29 @@
+{
+  "name": "code-compiler",
+  "version": "0.0.1",
+  "description": "An node compiler for other languages.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshulgoyal15/code-compiler.git"
+  },
+  "keywords": [
+    "node",
+    "compile",
+    "C",
+    "CPP",
+    "Python"
+  ],
+  "author": "argoyal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anshulgoyal15/code-compiler/issues"
+  },
+  "homepage": "https://github.com/anshulgoyal15/code-compiler#readme"
+}
