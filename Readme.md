@@ -8,6 +8,7 @@ The module requires:
 <li>Python</li>
 <li>NodeJS</li>
 </ul>
+
 ```javascript
 
 const {runNode,runC,runCPP,runPython}=require('code-compiler')
@@ -16,5 +17,4 @@ runNode(code,input,cb(stderr,stdout){
  console.log({err:stderr});
  console.log({output:stdout});
 })
-
 ```
